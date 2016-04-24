@@ -1,0 +1,75 @@
+{
+    "appKeys": {
+        "day_views": 2,
+        "day_views_count": 0,
+        "views_best": 1
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "keith",
+    "enableMultiJS": false,
+    "longName": "Wordpress Stats",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bluetooth.png",
+                "name": "IMAGE_BLUETOOTH",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/imagine_font.ttf",
+                "name": "FONT_SQUARE_DISPLAY_32",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "font"
+            },
+            {
+                "file": "fonts/imagine_font.ttf",
+                "name": "FONT_SQUARE_DISPLAY_14",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/Square-LCD.ttf",
+                "name": "FONT_LCD_SQUARE_42",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Wordpress Stats",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "691971a6-593f-4db7-b7ff-2908f957d45f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
